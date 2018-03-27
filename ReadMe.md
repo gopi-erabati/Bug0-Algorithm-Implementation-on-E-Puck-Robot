@@ -1,0 +1,1 @@
+Bug 0 is a reactive-navigation algorithm that uses odometry. The robot starts with knowledge of the position of goal relative to its initial pose, but no knowledge of the environment. The strategy is then to use odometry to orient and move toward goal while reactively avoiding obstacles.
